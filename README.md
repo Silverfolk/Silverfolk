@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-### Hi there 👋, My name is Rohan Taneja
+### Hi there 👋, My name is Harsh Kumar Mishra
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Silverfolk&show_icons=true)  
 Skills:   Java/C++ / HTML / CSS /JavaScript 
