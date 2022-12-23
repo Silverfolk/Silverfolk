@@ -20,9 +20,6 @@ Skills:   Java/C++ / HTML / CSS /JavaScript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverfolk)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Silverfolk)  
-
 ![Profile views](https://gpvc.arturio.dev/Silverfolk)  
 
 
