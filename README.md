@@ -23,8 +23,6 @@ Skills:   Java/C++ / HTML / CSS /JavaScript
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Silverfolk)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Silverfolk)  
-
 ![Profile views](https://gpvc.arturio.dev/Silverfolk)  
 
 
